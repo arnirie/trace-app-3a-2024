@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489419416553",
+    "project_id": "trace-app-3a-2024",
+    "storage_bucket": "trace-app-3a-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489419416553:android:33559ab79b170da0e6a178",
+        "android_client_info": {
+          "package_name": "com.example.trace_app_3a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8alZlU83VXzDsNi4F5CZtQbY5J5-wweQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
